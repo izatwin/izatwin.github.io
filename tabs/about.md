@@ -36,6 +36,6 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+Cheezers is a place to follow the journey of the homelab it is hosted on. My goal is to post here everytime I finish implementing something new. Eventually I hope to include links to all of my services and have this place be similar to my own personal cloud with every service I could desire. Enjoy!
 
-# Sean Rettig
-He is the main person to create the Cheezers site and blog
+Cheezers was created by Sean Rettig, a homelab enthusiast and Computer Science student at Purdue University

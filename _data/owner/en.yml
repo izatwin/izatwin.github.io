@@ -5,7 +5,7 @@
 brand: "Cheezers"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: # "THIS IS HERE" # "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Sean Rettig"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "A journey of a homelab" # "$site_sample"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -50,7 +50,7 @@ meta_common_description: "Your meta description."
 contacts:
   - github: "izatwin"
   - email: "sean@cheezers.net"
-  #- linkedin: ""
+  - linkedin: "sean-rettig"
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""
