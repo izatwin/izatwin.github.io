@@ -36,10 +36,11 @@ date: 2022-08-02 10:04:30 -0500
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-<!-- outline-start -->
 
 ###### Preface
-This essay was written for an English class in response to the prompt of describing a hobby.
+<!-- outline-start -->
+This article is an introduction to homelabbing as a hobby and my personal journey.
+<!-- outline-end -->It was written for an English class in response to the prompt of describing something we love to do.
 
 <br>
 <br>
@@ -65,3 +66,10 @@ It can be hard to see why having a homelab is important at all, especially if yo
 
 
 Homelabbing is an extremely expansive hobby, which lends itself to having something for almost everyone. You can go as deep or as shallow as you want and you wouldn’t receive much judgement. No matter how small your homelab might be, there are people online who respect it for what it is and want to help you learn enough to get to your end goal. I think that is one of the important parts of this hobby, if you feel stuck, it is incredibly easy to ask for help. Many people say that the only real limits are the power bill and spousal approval, but being single and living at my parent’ house exempts me from that. There is something to be said about DIY, but I feel this hobby takes it to the extreme because of the possibilities, transferrable skills, and opportunity for fulfillment. Working on my homelab has been a big part of my life, and I firmly believe I will do it until I die.
+<br>
+<br>
+If you made to the end I am very grateful. As a gift, here is a picture of my beloved homelab. It might look different in future articles, but this is how it looks as of 2/20/22.
+<br>
+<br>
+
+![My Homelab](:homelab_pic.jpeg){:data-align="center"}
